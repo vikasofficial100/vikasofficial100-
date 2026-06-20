@@ -1,22 +1,25 @@
-# Hi 👋, I'm Vikas Kumar
+# Hi 👋, I'm Vikas Kumar Yadav
 
 🚀 Aspiring Developer | 💻 Tech Enthusiast | 📊 Learning & Building
 
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=vikasofficial100&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: Backend / APIs / System Design
-- 💻 I love building projects and exploring new tech
-- 🎯 Goal: Become a strong software engineer
-- ⚡ Fun fact: I enjoy solving real-world coding problems
+I am a final-year Electrical Engineering student at NIT Patna, passionate about backend development, scalable systems, and AI-driven applications.
+
+I enjoy building real-world systems involving APIs, databases, and Generative AI workflows. Currently exploring LLMs, agentic systems, and backend architecture to build production-ready applications.
+
+My focus areas include:
+• Backend Development
+• Databases & Scalable Architecture
+• Generative AI & LLM Applications
+• Problem Solving & Competitive Thinking
 
 ---
-
+👀 Profile Views:
+![Views](https://komarev.com/ghpvc/?username=vikasofficial100&label=Profile%20Views&color=0e75b6&style=flat)
+---
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasofficial100&show_icons=true&theme=tokyonight)
 
@@ -34,6 +37,7 @@
 
 ## 📌 Connect With Me
 - GitHub: https://github.com/vikasofficial100
+- Linkdin: https://www.linkedin.com/in/vikas-kumar-yadav-790b74294?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
